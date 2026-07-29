@@ -7,10 +7,10 @@ server/node_modules/
 dist/
 client/dist/
 
-# Environment files
+# Environment
 .env
 server/.env
 client/.env
 
 # Logs
-*.log
+*.log   
